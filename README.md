@@ -153,3 +153,13 @@ docker run -d \
 ---
 
 *Built as part of my DevOps learning journey | AWS Certified Cloud Practitioner (CLF-C02)*
+## 📸 Project Demo
+
+### 1. Flask App live on EC2 (port 5000)
+![Flask App UI]("C:\Users\hp\Desktop\DockerProject\5 two-tier flask app.png")
+
+### 2. Messages stored and displayed from MySQL
+![Messages Stored]("C:\Users\hp\Desktop\DockerProject\6.png")
+
+### 3. Data verified directly inside MySQL container
+![MySQL Verification]("C:\Users\hp\Desktop\DockerProject\7.png")
